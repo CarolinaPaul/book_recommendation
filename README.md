@@ -17,7 +17,7 @@ Since, here we are trying to recommend books to users based on their past purcha
 
 **Conclusion:**
 
-Findings from EDA::
+**Findings from EDA:**
 
 * The Lovely Bones: A Novel and Wild Animus are the two most read books.
 * Stephen King is the most popular book author based on the number of ratings.
@@ -26,7 +26,7 @@ Findings from EDA::
 * The majority of readers who have given the books ratings are from the United States and Canada.
 * Regardless of the age group, The Lovely Bones and Wild Animus appear on lists of the top-rated books.
 
-Conclusions on Approaches:
+**Conclusion on Approaches:**
 
 * We have built five types of recommendation systems and did evaluation for one of them.
 * In the case of Memory-based approach, the Cosine similarity-based KNN performs better at recommending books that are similar than the Euclidean distance-based KNN.
