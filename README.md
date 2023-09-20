@@ -31,3 +31,6 @@ Since, here we are trying to recommend books to users based on their past purcha
 * We have built five types of recommendation systems and did evaluation for one of them.
 * In the case of Memory-based approach, the Cosine similarity-based KNN performs better at recommending books that are similar than the Euclidean distance-based KNN.
 * After evaluation for Collaborative-Model Based Recommendation system, we got a recall@5 of 30% and recall@10 of 41%.
+
+
+deployed on azure[azure](bookrecommendationflask.azurewebsites.net)
