@@ -33,4 +33,4 @@ Since, here we are trying to recommend books to users based on their past purcha
 * After evaluation for Collaborative-Model Based Recommendation system, we got a recall@5 of 30% and recall@10 of 41%.
 
 
-deployed on azure[azure](bookrecommendationflask.azurewebsites.net)
+deployed on azure [(bookrecommendationflask.azurewebsites.net)]
